@@ -1,3 +1,4 @@
+**\mlruns
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+models/
+notebooks/mlruns/
+features.txt
+mlflow_env/
+input_data/
